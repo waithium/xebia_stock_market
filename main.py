@@ -1,3 +1,10 @@
+'''
+pip install yfinance
+pip install pandas
+pip install dash
+pip install plotly
+'''
+
 import yfinance as yf
 import pandas as pd
 from dash import Dash, dcc, html
